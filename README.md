@@ -12,7 +12,7 @@
 
 ## Step 2: Administrator Password Reset  
 ### Locate User in ADUC  
-![AD User Search](image.png)  
+![AD User Search](pass2.png)  
 - Open **Active Directory Users and Computers**  
 - Find user → Right-click → **Reset Password**  
 
