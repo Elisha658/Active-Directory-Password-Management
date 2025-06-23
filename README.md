@@ -27,11 +27,11 @@
 ## Step 3: User Login Experience  
 ### Initial Login Prompt  
 ![Domain Selection](pass6.PNG)  
-- User must select correct domain (`LAB` in this case)  
+- User enters the temporary password which was given (`LAB` in this case)  
 
 ### Password Change Requirement  
 ![Forced Password Change](pass7.PNG)  
-- System requires password change before granting access  
+- User enters the new password before system grants access  
 
 ### Password Update Screen  
 ![Password Change Interface](pass8.PNG)  
