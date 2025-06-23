@@ -35,4 +35,4 @@
 
 ### Password Update Screen  
 ![Password Change Interface](pass8.PNG)  
-- User enters temporary password + new secure password  
+- new secure password has been entered and user has been granted access
