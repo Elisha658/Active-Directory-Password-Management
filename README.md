@@ -27,7 +27,7 @@
 ## Step 3: User Login Experience  
 ### Initial Login Prompt  
 ![Domain Selection](pass6.PNG)  
-- User enters the temporary password which was given (`LAB` in this case)  
+- User enters the temporary password which was given 
 
 ### Password Change Requirement  
 ![Forced Password Change](pass7.PNG)  
